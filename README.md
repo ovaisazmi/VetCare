@@ -22,7 +22,7 @@ The Veterinary Appointment Booking System has the following features:
 - `Landing Page`: A home page with information about the veterinary clinic and links to the sign-up and login pages.
 - `Book Appointment Page`: A page where users can book appointments with the veterinary clinic. If the user is not logged in, they are redirected to the login page.
 - `View Appointment Page`: A page where users can view their appointments.
-- `Connect Page`: A page where users can get one on one sessions with Veterinarian
+- `Connect Page`: A page where users can get one on one sessions with Veterinarian.
 - `Login and Sign Up Pages`: Pages for users to create and manage their accounts.
 - `User Profile Page`: A page where users can manage their profile information.
 - `Admin Page`: A page for administrators to manage appointments, view appointment data, and manage users.
